@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_b240168978df21c93525d4166bcca2fd80087aec.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a784792b5d0967dfb3ede2a6ec57a455b741fb90">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d5b411163edbd6784c1a6eab06348e1b6c2ca54b.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_6cd35187732aa0d524213475cbda286ab4379a3b.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_e0f6bb9991576f854da29d0c731af79885bda23c.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_11bfeebf693c8c56151662825bdbbe22094c0f49.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_03f970311e781b95ce9fda4a25ee5549da195e51.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_e6d83fcc2376d0f2909103ae577c273ed1a55a69.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_70a20260460409f35a1b02d6f5fbfc0066ee90c9.jar" />
+    </item>
+    <item
+        jar="/home/alexona/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_b38f4a0788a737c3cdae05c2e708715e5260216a.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_aad576fd7f4320bc193ee568a80a92e3ac7c20e9.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_283148a753c2bd132c62aaf44916a9ec71e98e5b.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_c6701bfc8c730e40ffff83ac0cc08edb40c990cc.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_de31ba927f1101c17e98a96c75ed84460513c1ba.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fa8d75d19267ac54f8b747ff2f157dfc9a4c109e">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/instant-run_9e57e4024e19fa3463fdbcfd38ed8055b703af57.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_bed973dcd513dd25808e73b755ae3fc281c309da.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_54616955aad1af7d240011dbd13a677dbea2670e.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_06f8351e66143651103ccac9840415938628a1a8.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_a6fd839fbec0473675da1b258b47ffd52e30c58c.jar" />
+    </item>
+    <item
+        jar="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/alexona/AndroidStudioProjects/I-e.g/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_bf51b327d3bbf03c58751eff1e4fbf2aa9c13870.jar" />
+    </item>
+
+</items>
